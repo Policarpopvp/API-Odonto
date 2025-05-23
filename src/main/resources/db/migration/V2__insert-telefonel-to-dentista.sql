@@ -1,0 +1,1 @@
+alter table dentista add telefone varchar(20);
