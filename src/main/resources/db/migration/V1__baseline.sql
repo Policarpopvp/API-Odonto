@@ -1,0 +1,1 @@
+-- Baseline: Flyway começa a gerenciar a partir do schema já existente
