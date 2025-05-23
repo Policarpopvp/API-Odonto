@@ -25,11 +25,6 @@ API RESTful para gerenciamento de agendamento entre pacientes e dentistas, const
 - Configurações para diferentes ambientes (produção, teste).
 - Migrations para versionar alterações do banco de dados.
 
----
-
-Sinta-se à vontade para contribuir, abrir issues ou sugerir melhorias!
-
----
 
 ### Como rodar a aplicação
 
