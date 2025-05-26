@@ -24,7 +24,6 @@ API RESTful para gerenciamento de agendamento entre pacientes e dentistas, const
 ## Estrutura do Projeto
 
 - Módulos organizados para separar entidades, serviços, controladores e repositórios.
-- Configurações para diferentes ambientes (produção, teste).
 - Migrations para versionar alterações do banco de dados.
 
 ### Como rodar a aplicação
